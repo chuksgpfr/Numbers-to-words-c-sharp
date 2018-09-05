@@ -1,0 +1,6 @@
+/home/chuksgpfr/RiderProjects/convertNumbersToWords/convertNumbersToWords/bin/Debug/convertNumbersToWords.exe
+/home/chuksgpfr/RiderProjects/convertNumbersToWords/convertNumbersToWords/bin/Debug/convertNumbersToWords.pdb
+/home/chuksgpfr/RiderProjects/convertNumbersToWords/convertNumbersToWords/obj/Debug/convertNumbersToWords.csprojResolveAssemblyReference.cache
+/home/chuksgpfr/RiderProjects/convertNumbersToWords/convertNumbersToWords/obj/Debug/convertNumbersToWords.csproj.CoreCompileInputs.cache
+/home/chuksgpfr/RiderProjects/convertNumbersToWords/convertNumbersToWords/obj/Debug/convertNumbersToWords.exe
+/home/chuksgpfr/RiderProjects/convertNumbersToWords/convertNumbersToWords/obj/Debug/convertNumbersToWords.pdb
